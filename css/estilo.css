@@ -1,0 +1,38 @@
+.cabeza {
+    background: blue;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.menu {
+    text-decoration: none;
+    color: white;
+    background: black;
+    display: inline-block;
+    float: left;
+    width: 30%;
+    height: 600px;
+
+
+}
+
+.contenido {
+    background: gray;
+    color: white;
+    font-size: 2rem;
+    display: inline-block;
+    float: left;
+    width: 70%;
+    height: 600px;
+
+
+}
+
+.pie {
+    border: 1px solid black;
+    background: brown;
+    width: 100%;
+}
+pre {
+    font-size: 10px;
+}
