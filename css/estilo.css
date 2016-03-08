@@ -1,10 +1,10 @@
-.cabeza {
+header {
     background: blue;
     border: 1px solid black;
     width: 100%;
 }
 
-.menu {
+nav {
     text-decoration: none;
     color: white;
     background: black;
@@ -16,7 +16,7 @@
 
 }
 
-.contenido {
+main {
     background: gray;
     color: white;
     font-size: 2rem;
@@ -28,7 +28,7 @@
 
 }
 
-.pie {
+footer {
     border: 1px solid black;
     background: brown;
     width: 100%;
